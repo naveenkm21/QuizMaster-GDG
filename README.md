@@ -2,7 +2,8 @@
 
 An interactive, feature-rich quiz application built with React and TypeScript that offers an engaging learning experience through gamified quizzes.
 
-![QuizMaster Screenshot](https://images.pexels.com/photos/3184658/pexels-photo-3184658.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![image](https://github.com/user-attachments/assets/128ccf90-c22d-4b04-89a6-6b5c587f00b7)
+
 
 ## ✨ Features
 
@@ -149,6 +150,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Sound effects from [Mixkit](https://mixkit.co)
 - Icons from [Lucide](https://lucide.dev)
 
+## 🖥️ Output
+
+![image](https://github.com/user-attachments/assets/f140936f-5e23-472f-a753-95ddefc12edc)
+
+![image](https://github.com/user-attachments/assets/124bc6c1-4715-4382-9cbf-463f5eceb2a9)
+
+![image](https://github.com/user-attachments/assets/529df961-1108-40e8-a157-7bbf13de7cec)
+
 ## 🚀 Future Enhancements
 
 - Multiplayer mode
@@ -161,4 +170,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Naveen Kumar Mohanarajan
